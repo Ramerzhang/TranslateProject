@@ -1,4 +1,4 @@
-The future of Linux storage
+TrabslateProject translating by Ramerzhang
 ================================================================================
 > **Summary**:Linux software developers are working hard on expanding Linux's file and storage options.
 
